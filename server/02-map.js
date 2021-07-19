@@ -1,4 +1,4 @@
-/*maps se utiliza para transformar un array a otro con las misma cantidad de elementos */
+/*map se utiliza para transformar un array a otro con las misma cantidad de elementos */
 
 const letters = ['a','b','c'];
 const newArray = [];

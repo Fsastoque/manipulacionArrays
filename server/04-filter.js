@@ -1,3 +1,5 @@
+//Filter devuelve un array segun la condición del filtro
+
 const words = ['spray', 'limit','elite', 'exuberant'];
 
 const newArray =[];
@@ -55,6 +57,4 @@ const orders = [
     })
   }
 
-  console.log('Buscador' , search('ti'));
-  
-  
+console.log('Buscador' , search('ti'));
